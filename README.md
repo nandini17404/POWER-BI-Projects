@@ -228,7 +228,7 @@ Blinkit-PowerBI-Dashboard/
 
 **Power BI Developer | Data Analyst | Business Intelligence Enthusiast**
 
-* GitHub: [[https://github.com/yourusername](https://github.com/yourusername)](https://github.com/nandini17404)
+* GitHub: https://github.com/nandini17404
 * LinkedIn: www.linkedin.com/in/nandini-gupta-976aab275
 
 
